@@ -1,18 +1,19 @@
 class SantaDeliver
   attr_reader :houses, :route
-  attr_accessor :point
+  attr_accessor :santa, :robot
 
   def initialize(file_path)
     @route = File.new(file_path, "r").gets.chomp
     @houses = Hash.new(0)
-    @point = [0,0]
-    @houses[@point] += 1
+    @robot = @santa = [0,0]
+    deliver('santa')
   end
 
   def deliver_all
-    route.each_char do |direction|
-      move(direction)
-      deliver
+    route.each_char.with_index do |direction, index|
+      who = index.odd? ?  'santa' : "robot"
+      move(who, direction)
+      deliver(who)
     end
   end
 
@@ -20,12 +21,13 @@ class SantaDeliver
     houses.keys.count
   end
 
-  def deliver
-    houses[point] += 1
+  def deliver(who)
+    houses[send(who)] += 1
   end
 
-  def move(direction)
-    self.point = case direction
+  def move(who, direction)
+    point = send(who)
+    new_point = case direction
     when '>'
       [point.first+1, point.last]
     when '<'
@@ -35,6 +37,8 @@ class SantaDeliver
     when 'v'
       [point.first, point.last-1]
     end
+
+    send("#{who}=", new_point)
   end
 end
 
