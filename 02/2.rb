@@ -1000,9 +1000,8 @@ dimensions = %w(29x13x26
 10x9x8)
 
 sum = dimensions.reduce(0) do |sum, dim|
-  l,w,h = dim.split("x").map(&:to_i)
-  sqrs = [l*w, w*h, h*l]
-  sum += sqrs.reduce(:+) * 2 + sqrs.min
+  dims = dim.split("x").map(&:to_i)
+  sum += dims.reduce(:*) + dims.min(2).reduce(:+) * 2
 end
 
 puts sum
