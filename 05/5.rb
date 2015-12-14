@@ -18,30 +18,25 @@ class ProperStrings
   end
 
   def classification(string)
-    puts string
     nice?(string) ? nice.push(string) : naughty.push(string)
   end
 
   def nice?(string)
-    ["vowels?", "allowed?", "twice?"].all? { |rule| send(rule, string) }
+    ["xyx?", "pair?"].all? { |rule| send(rule, string) }
   end
 
-  def vowels?(string)
-    rules = ['a', 'e', 'i', 'o', 'u']
-    string.chars.count { |c| rules.include? c } >= 3
+  def xyx?(string)
+    string.each_char.with_index.any? { |c, i| c == string[i+2] }
   end
 
-  def allowed?(string)
-    rules = %w(ab cd pq xy)
-    rules.none? { |rule| string.include?(rule) }
-  end
+  def pair?(string)
+    chars = string.chars
 
-  def twice?(string)
-    tmp = ''
-    string.chars.any? do |c|
-      prev = tmp
-      tmp = c
-      c == prev
+    chars.count.times.any? do
+      chars_tmp = chars.dup
+      pair = chars_tmp.shift(2)
+      chars.shift
+      chars_tmp.join.include?(pair.join)
     end
   end
 end
