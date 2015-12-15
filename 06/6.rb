@@ -3,7 +3,7 @@ class Lcd
 
   def initialize(file_path)
     @file = File.new(file_path, "r")
-    @monitor = Array.new(1000) { Array.new(1000, false) }
+    @monitor = Array.new(1000) { Array.new(1000, 0) }
   end
 
   def load_instractions
@@ -27,18 +27,20 @@ class Lcd
   end
 
   def on(x, y)
-    monitor[y][x] = true
+    monitor[y][x] += 1
   end
 
   def off(x, y)
-    monitor[y][x] = false
+    return if monitor[y][x].zero?
+
+    monitor[y][x] -= 1
   end
 
   def toggle(x, y)
-    monitor[y][x] = !monitor[y][x]
+    monitor[y][x] += 2
   end
 end
 
 lcd = Lcd.new('6.data')
 lcd.load_instractions
-puts lcd.monitor.flatten.count(&:itself)
+puts lcd.monitor.flatten.reduce(:+)
