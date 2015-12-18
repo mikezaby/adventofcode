@@ -1,5 +1,5 @@
 class PasswordGenerator
-  attr_reader :password, :pass_chars
+  attr_reader :password
 
   def initialize(password)
     @password = password
