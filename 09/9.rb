@@ -1,7 +1,5 @@
 require '../file_helper.rb'
 
-places = []
-
 distances = FileHelper.new('9.data').reduce({}) do |distances, line|
   from, _, to, _, distance = line.split
   distances.merge! [from, to].sort => distance.to_i
