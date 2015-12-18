@@ -14,7 +14,7 @@ def look_and_say(string)
   char_counts.join
 end
 
-final = 40.times.reduce('1113222113') do |string|
+final = 50.times.reduce('1113222113') do |string|
   look_and_say(string)
 end
 
