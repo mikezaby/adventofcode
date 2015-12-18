@@ -12,4 +12,4 @@ distances.keys.flatten.uniq.permutation do |p|
   permutations.push p[0...-1].zip(p[1..-1]) if p[0] < p[-1]
 end
 
-puts permutations.map { |permutation| permutation.reduce(0) {|sum, dist| sum + distances[dist.sort] } }.min
+puts permutations.map { |permutation| permutation.reduce(0) {|sum, dist| sum + distances[dist.sort] } }.max
