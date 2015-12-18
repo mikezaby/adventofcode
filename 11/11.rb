@@ -41,4 +41,4 @@ class PasswordGenerator
 end
 
 pg = PasswordGenerator.new('cqjxjnds')
-puts pg.next_password
+puts pg.next_password.next_password
