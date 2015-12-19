@@ -26,7 +26,6 @@ class TableHappiness
     persons.permutation do |p|
       if p[0] < p[-1]
         p = p.each_cons(2).map(&:sort)
-        p.push [p.first[0], p.last[1]].sort
         permutations.push p
       end
     end
