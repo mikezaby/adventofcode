@@ -1,0 +1,2502 @@
+{
+  Sue_1: {
+    children: 1,
+    cars: 8,
+    vizslas: 7
+  },
+  Sue_2: {
+    akitas: 10,
+    perfumes: 10,
+    children: 5
+  },
+  Sue_3: {
+    cars: 5,
+    pomeranians: 4,
+    vizslas: 1
+  },
+  Sue_4: {
+    goldfish: 5,
+    children: 8,
+    perfumes: 3
+  },
+  Sue_5: {
+    vizslas: 2,
+    akitas: 7,
+    perfumes: 6
+  },
+  Sue_6: {
+    vizslas: 0,
+    akitas: 1,
+    perfumes: 2
+  },
+  Sue_7: {
+    perfumes: 8,
+    cars: 4,
+    goldfish: 10
+  },
+  Sue_8: {
+    perfumes: 7,
+    children: 2,
+    cats: 1
+  },
+  Sue_9: {
+    pomeranians: 3,
+    goldfish: 10,
+    trees: 10
+  },
+  Sue_10: {
+    akitas: 7,
+    trees: 8,
+    pomeranians: 4
+  },
+  Sue_11: {
+    goldfish: 1,
+    perfumes: 4,
+    cars: 6
+  },
+  Sue_12: {
+    samoyeds: 6,
+    trees: 6,
+    perfumes: 2
+  },
+  Sue_13: {
+    akitas: 10,
+    pomeranians: 0,
+    vizslas: 2
+  },
+  Sue_14: {
+    cars: 2,
+    perfumes: 3,
+    children: 4
+  },
+  Sue_15: {
+    goldfish: 2,
+    children: 8,
+    cars: 5
+  },
+  Sue_16: {
+    goldfish: 9,
+    cars: 0,
+    vizslas: 5
+  },
+  Sue_17: {
+    cats: 5,
+    trees: 6,
+    perfumes: 6
+  },
+  Sue_18: {
+    cars: 0,
+    perfumes: 8,
+    pomeranians: 7
+  },
+  Sue_19: {
+    trees: 2,
+    goldfish: 5,
+    perfumes: 4
+  },
+  Sue_20: {
+    akitas: 4,
+    vizslas: 4,
+    trees: 0
+  },
+  Sue_21: {
+    pomeranians: 7,
+    trees: 0,
+    goldfish: 10
+  },
+  Sue_22: {
+    cars: 4,
+    vizslas: 0,
+    perfumes: 3
+  },
+  Sue_23: {
+    vizslas: 8,
+    trees: 1,
+    akitas: 2
+  },
+  Sue_24: {
+    children: 7,
+    trees: 0,
+    akitas: 1
+  },
+  Sue_25: {
+    goldfish: 3,
+    akitas: 2,
+    trees: 2
+  },
+  Sue_26: {
+    pomeranians: 4,
+    vizslas: 4,
+    samoyeds: 2
+  },
+  Sue_27: {
+    cars: 0,
+    trees: 8,
+    akitas: 5
+  },
+  Sue_28: {
+    perfumes: 6,
+    cats: 0,
+    cars: 2
+  },
+  Sue_29: {
+    trees: 7,
+    akitas: 1,
+    vizslas: 1
+  },
+  Sue_30: {
+    perfumes: 9,
+    cars: 9,
+    trees: 10
+  },
+  Sue_31: {
+    pomeranians: 5,
+    akitas: 9,
+    samoyeds: 1
+  },
+  Sue_32: {
+    pomeranians: 10,
+    vizslas: 5,
+    goldfish: 5
+  },
+  Sue_33: {
+    vizslas: 2,
+    akitas: 3,
+    trees: 7
+  },
+  Sue_34: {
+    goldfish: 10,
+    perfumes: 0,
+    samoyeds: 7
+  },
+  Sue_35: {
+    akitas: 6,
+    cats: 7,
+    perfumes: 10
+  },
+  Sue_36: {
+    pomeranians: 8,
+    vizslas: 7,
+    akitas: 6
+  },
+  Sue_37: {
+    goldfish: 2,
+    cars: 10,
+    children: 7
+  },
+  Sue_38: {
+    goldfish: 2,
+    perfumes: 3,
+    cars: 7
+  },
+  Sue_39: {
+    trees: 9,
+    vizslas: 10,
+    cars: 5
+  },
+  Sue_40: {
+    goldfish: 1,
+    pomeranians: 0,
+    trees: 2
+  },
+  Sue_41: {
+    trees: 2,
+    goldfish: 6,
+    vizslas: 3
+  },
+  Sue_42: {
+    akitas: 1,
+    cars: 3,
+    vizslas: 3
+  },
+  Sue_43: {
+    akitas: 1,
+    pomeranians: 1,
+    vizslas: 3
+  },
+  Sue_44: {
+    goldfish: 7,
+    akitas: 3,
+    vizslas: 10
+  },
+  Sue_45: {
+    akitas: 8,
+    samoyeds: 8,
+    goldfish: 2
+  },
+  Sue_46: {
+    trees: 0,
+    vizslas: 4,
+    cars: 9
+  },
+  Sue_47: {
+    cars: 9,
+    trees: 10,
+    perfumes: 4
+  },
+  Sue_48: {
+    akitas: 0,
+    vizslas: 5,
+    perfumes: 4
+  },
+  Sue_49: {
+    goldfish: 9,
+    trees: 1,
+    cars: 4
+  },
+  Sue_50: {
+    goldfish: 2,
+    perfumes: 5,
+    cars: 2
+  },
+  Sue_51: {
+    samoyeds: 1,
+    goldfish: 2,
+    perfumes: 7
+  },
+  Sue_52: {
+    cars: 0,
+    perfumes: 4,
+    goldfish: 8
+  },
+  Sue_53: {
+    goldfish: 9,
+    vizslas: 2,
+    akitas: 9
+  },
+  Sue_54: {
+    trees: 1,
+    goldfish: 9,
+    children: 5
+  },
+  Sue_55: {
+    cars: 0,
+    akitas: 5,
+    trees: 4
+  },
+  Sue_56: {
+    trees: 4,
+    samoyeds: 5,
+    children: 9
+  },
+  Sue_57: {
+    children: 0,
+    vizslas: 8,
+    cars: 3
+  },
+  Sue_58: {
+    trees: 4,
+    pomeranians: 5,
+    akitas: 5
+  },
+  Sue_59: {
+    vizslas: 10,
+    cats: 3,
+    children: 2
+  },
+  Sue_60: {
+    cats: 6,
+    vizslas: 2,
+    cars: 2
+  },
+  Sue_61: {
+    akitas: 1,
+    vizslas: 0,
+    children: 4
+  },
+  Sue_62: {
+    akitas: 4,
+    trees: 9,
+    children: 10
+  },
+  Sue_63: {
+    pomeranians: 6,
+    vizslas: 6,
+    cars: 4
+  },
+  Sue_64: {
+    perfumes: 8,
+    pomeranians: 1,
+    children: 8
+  },
+  Sue_65: {
+    perfumes: 3,
+    goldfish: 6,
+    trees: 5
+  },
+  Sue_66: {
+    goldfish: 10,
+    akitas: 8,
+    vizslas: 4
+  },
+  Sue_67: {
+    vizslas: 10,
+    samoyeds: 3,
+    trees: 2
+  },
+  Sue_68: {
+    samoyeds: 4,
+    cars: 7,
+    perfumes: 3
+  },
+  Sue_69: {
+    perfumes: 2,
+    goldfish: 0,
+    trees: 2
+  },
+  Sue_70: {
+    trees: 8,
+    vizslas: 7,
+    akitas: 6
+  },
+  Sue_71: {
+    cars: 2,
+    children: 7,
+    perfumes: 3
+  },
+  Sue_72: {
+    cars: 1,
+    akitas: 9,
+    perfumes: 0
+  },
+  Sue_73: {
+    vizslas: 4,
+    akitas: 7,
+    cars: 5
+  },
+  Sue_74: {
+    samoyeds: 3,
+    cars: 3,
+    akitas: 2
+  },
+  Sue_75: {
+    trees: 2,
+    cars: 1,
+    vizslas: 7
+  },
+  Sue_76: {
+    samoyeds: 9,
+    perfumes: 1,
+    trees: 6
+  },
+  Sue_77: {
+    trees: 6,
+    perfumes: 10,
+    cars: 7
+  },
+  Sue_78: {
+    trees: 0,
+    children: 8,
+    vizslas: 5
+  },
+  Sue_79: {
+    vizslas: 0,
+    trees: 0,
+    samoyeds: 1
+  },
+  Sue_80: {
+    trees: 6,
+    goldfish: 8,
+    perfumes: 0
+  },
+  Sue_81: {
+    samoyeds: 8,
+    pomeranians: 6,
+    akitas: 5
+  },
+  Sue_82: {
+    vizslas: 6,
+    perfumes: 9,
+    akitas: 4
+  },
+  Sue_83: {
+    cats: 0,
+    vizslas: 3,
+    pomeranians: 10
+  },
+  Sue_84: {
+    cars: 4,
+    perfumes: 6,
+    samoyeds: 5
+  },
+  Sue_85: {
+    vizslas: 7,
+    trees: 5,
+    goldfish: 7
+  },
+  Sue_86: {
+    goldfish: 2,
+    trees: 2,
+    vizslas: 1
+  },
+  Sue_87: {
+    trees: 6,
+    goldfish: 10,
+    pomeranians: 4
+  },
+  Sue_88: {
+    vizslas: 1,
+    akitas: 0,
+    perfumes: 8
+  },
+  Sue_89: {
+    goldfish: 8,
+    akitas: 3,
+    vizslas: 7
+  },
+  Sue_90: {
+    vizslas: 9,
+    akitas: 7,
+    perfumes: 9
+  },
+  Sue_91: {
+    children: 7,
+    cars: 7,
+    trees: 9
+  },
+  Sue_92: {
+    vizslas: 10,
+    akitas: 8,
+    goldfish: 1
+  },
+  Sue_93: {
+    goldfish: 7,
+    vizslas: 2,
+    pomeranians: 0
+  },
+  Sue_94: {
+    cats: 2,
+    samoyeds: 6,
+    pomeranians: 3
+  },
+  Sue_95: {
+    samoyeds: 4,
+    children: 4,
+    pomeranians: 10
+  },
+  Sue_96: {
+    pomeranians: 9,
+    cats: 1,
+    goldfish: 3
+  },
+  Sue_97: {
+    trees: 1,
+    akitas: 6,
+    goldfish: 1
+  },
+  Sue_98: {
+    vizslas: 7,
+    akitas: 2,
+    perfumes: 7
+  },
+  Sue_99: {
+    pomeranians: 6,
+    perfumes: 2,
+    trees: 1
+  },
+  Sue_100: {
+    cars: 3,
+    children: 9,
+    trees: 10
+  },
+  Sue_101: {
+    children: 0,
+    perfumes: 0,
+    vizslas: 3
+  },
+  Sue_102: {
+    cars: 4,
+    goldfish: 5,
+    children: 2
+  },
+  Sue_103: {
+    pomeranians: 3,
+    perfumes: 7,
+    cats: 8
+  },
+  Sue_104: {
+    akitas: 0,
+    perfumes: 5,
+    vizslas: 5
+  },
+  Sue_105: {
+    akitas: 7,
+    vizslas: 2,
+    samoyeds: 8
+  },
+  Sue_106: {
+    goldfish: 7,
+    perfumes: 0,
+    cats: 8
+  },
+  Sue_107: {
+    cats: 6,
+    pomeranians: 9,
+    cars: 6
+  },
+  Sue_108: {
+    akitas: 3,
+    vizslas: 10,
+    cats: 5
+  },
+  Sue_109: {
+    akitas: 10,
+    perfumes: 2,
+    cars: 7
+  },
+  Sue_110: {
+    goldfish: 7,
+    pomeranians: 1,
+    trees: 1
+  },
+  Sue_111: {
+    akitas: 10,
+    samoyeds: 6,
+    vizslas: 6
+  },
+  Sue_112: {
+    cats: 6,
+    akitas: 7,
+    trees: 9
+  },
+  Sue_113: {
+    akitas: 1,
+    trees: 9,
+    vizslas: 8
+  },
+  Sue_114: {
+    vizslas: 2,
+    cats: 1,
+    cars: 4
+  },
+  Sue_115: {
+    akitas: 0,
+    trees: 5,
+    goldfish: 7
+  },
+  Sue_116: {
+    goldfish: 2,
+    trees: 10,
+    akitas: 2
+  },
+  Sue_117: {
+    cars: 4,
+    goldfish: 10,
+    perfumes: 5
+  },
+  Sue_118: {
+    cars: 5,
+    perfumes: 6,
+    trees: 0
+  },
+  Sue_119: {
+    perfumes: 5,
+    vizslas: 1,
+    cats: 0
+  },
+  Sue_120: {
+    perfumes: 8,
+    akitas: 9,
+    vizslas: 4
+  },
+  Sue_121: {
+    samoyeds: 2,
+    vizslas: 7,
+    perfumes: 6
+  },
+  Sue_122: {
+    children: 6,
+    trees: 9,
+    perfumes: 2
+  },
+  Sue_123: {
+    cars: 7,
+    akitas: 0,
+    pomeranians: 0
+  },
+  Sue_124: {
+    akitas: 7,
+    cats: 8,
+    vizslas: 5
+  },
+  Sue_125: {
+    goldfish: 3,
+    trees: 1,
+    cars: 4
+  },
+  Sue_126: {
+    cars: 4,
+    perfumes: 3,
+    akitas: 0
+  },
+  Sue_127: {
+    children: 10,
+    vizslas: 5,
+    akitas: 9
+  },
+  Sue_128: {
+    akitas: 3,
+    samoyeds: 2,
+    cats: 8
+  },
+  Sue_129: {
+    cats: 8,
+    akitas: 1,
+    vizslas: 8
+  },
+  Sue_130: {
+    trees: 4,
+    cars: 6,
+    perfumes: 6
+  },
+  Sue_131: {
+    akitas: 7,
+    perfumes: 6,
+    goldfish: 9
+  },
+  Sue_132: {
+    akitas: 6,
+    vizslas: 7,
+    trees: 1
+  },
+  Sue_133: {
+    akitas: 5,
+    vizslas: 7,
+    children: 9
+  },
+  Sue_134: {
+    cars: 8,
+    goldfish: 4,
+    pomeranians: 4
+  },
+  Sue_135: {
+    samoyeds: 1,
+    pomeranians: 6,
+    akitas: 4
+  },
+  Sue_136: {
+    perfumes: 10,
+    goldfish: 1,
+    cars: 3
+  },
+  Sue_137: {
+    cars: 3,
+    samoyeds: 6,
+    vizslas: 7
+  },
+  Sue_138: {
+    samoyeds: 10,
+    akitas: 3,
+    perfumes: 4
+  },
+  Sue_139: {
+    perfumes: 10,
+    vizslas: 2,
+    goldfish: 7
+  },
+  Sue_140: {
+    samoyeds: 7,
+    cars: 1,
+    trees: 2
+  },
+  Sue_141: {
+    children: 6,
+    cats: 5,
+    cars: 9
+  },
+  Sue_142: {
+    cats: 0,
+    trees: 1,
+    akitas: 10
+  },
+  Sue_143: {
+    samoyeds: 4,
+    cars: 0,
+    children: 7
+  },
+  Sue_144: {
+    trees: 0,
+    cars: 4,
+    perfumes: 8
+  },
+  Sue_145: {
+    goldfish: 7,
+    cars: 5,
+    trees: 1
+  },
+  Sue_146: {
+    perfumes: 7,
+    cars: 7,
+    goldfish: 0
+  },
+  Sue_147: {
+    trees: 2,
+    goldfish: 7,
+    vizslas: 5
+  },
+  Sue_148: {
+    samoyeds: 8,
+    perfumes: 1,
+    trees: 0
+  },
+  Sue_149: {
+    vizslas: 2,
+    samoyeds: 5,
+    trees: 0
+  },
+  Sue_150: {
+    akitas: 4,
+    perfumes: 4,
+    pomeranians: 2
+  },
+  Sue_151: {
+    trees: 2,
+    cars: 0,
+    goldfish: 10
+  },
+  Sue_152: {
+    goldfish: 7,
+    vizslas: 0,
+    trees: 0
+  },
+  Sue_153: {
+    children: 9,
+    cats: 0,
+    pomeranians: 10
+  },
+  Sue_154: {
+    cars: 6,
+    goldfish: 10,
+    akitas: 5
+  },
+  Sue_155: {
+    perfumes: 9,
+    trees: 2,
+    akitas: 3
+  },
+  Sue_156: {
+    pomeranians: 9,
+    perfumes: 5,
+    cars: 9
+  },
+  Sue_157: {
+    akitas: 0,
+    trees: 2,
+    cars: 7
+  },
+  Sue_158: {
+    goldfish: 10,
+    trees: 8,
+    akitas: 7
+  },
+  Sue_159: {
+    akitas: 5,
+    trees: 10,
+    cars: 10
+  },
+  Sue_160: {
+    akitas: 3,
+    trees: 5,
+    cars: 8
+  },
+  Sue_161: {
+    samoyeds: 2,
+    cars: 7,
+    perfumes: 4
+  },
+  Sue_162: {
+    cars: 6,
+    vizslas: 10,
+    pomeranians: 5
+  },
+  Sue_163: {
+    cars: 10,
+    perfumes: 6,
+    vizslas: 9
+  },
+  Sue_164: {
+    pomeranians: 7,
+    cars: 4,
+    vizslas: 2
+  },
+  Sue_165: {
+    goldfish: 9,
+    vizslas: 3,
+    trees: 1
+  },
+  Sue_166: {
+    goldfish: 1,
+    samoyeds: 3,
+    trees: 1
+  },
+  Sue_167: {
+    vizslas: 4,
+    goldfish: 7,
+    cats: 5
+  },
+  Sue_168: {
+    children: 1,
+    cars: 5,
+    samoyeds: 7
+  },
+  Sue_169: {
+    trees: 1,
+    samoyeds: 3,
+    goldfish: 6
+  },
+  Sue_170: {
+    goldfish: 2,
+    cars: 3,
+    perfumes: 9
+  },
+  Sue_171: {
+    cars: 4,
+    goldfish: 0,
+    trees: 6
+  },
+  Sue_172: {
+    cats: 8,
+    perfumes: 6,
+    trees: 1
+  },
+  Sue_173: {
+    akitas: 9,
+    goldfish: 7,
+    cars: 10
+  },
+  Sue_174: {
+    vizslas: 2,
+    trees: 0,
+    akitas: 1
+  },
+  Sue_175: {
+    perfumes: 3,
+    vizslas: 8,
+    akitas: 4
+  },
+  Sue_176: {
+    perfumes: 0,
+    akitas: 6,
+    goldfish: 3
+  },
+  Sue_177: {
+    perfumes: 6,
+    children: 1,
+    goldfish: 10
+  },
+  Sue_178: {
+    cars: 5,
+    vizslas: 3,
+    children: 10
+  },
+  Sue_179: {
+    perfumes: 3,
+    trees: 8,
+    cats: 9
+  },
+  Sue_180: {
+    perfumes: 8,
+    vizslas: 4,
+    trees: 7
+  },
+  Sue_181: {
+    perfumes: 7,
+    vizslas: 9,
+    samoyeds: 4
+  },
+  Sue_182: {
+    vizslas: 9,
+    trees: 4,
+    pomeranians: 4
+  },
+  Sue_183: {
+    trees: 9,
+    cars: 3,
+    goldfish: 5
+  },
+  Sue_184: {
+    perfumes: 2,
+    cars: 4,
+    vizslas: 3
+  },
+  Sue_185: {
+    children: 10,
+    akitas: 10,
+    cats: 9
+  },
+  Sue_186: {
+    cars: 5,
+    samoyeds: 0,
+    trees: 0
+  },
+  Sue_187: {
+    trees: 2,
+    goldfish: 3,
+    cars: 4
+  },
+  Sue_188: {
+    goldfish: 3,
+    vizslas: 1,
+    cats: 6
+  },
+  Sue_189: {
+    trees: 2,
+    pomeranians: 10,
+    cars: 7
+  },
+  Sue_190: {
+    perfumes: 10,
+    akitas: 3,
+    samoyeds: 0
+  },
+  Sue_191: {
+    cats: 5,
+    vizslas: 6,
+    akitas: 6
+  },
+  Sue_192: {
+    samoyeds: 5,
+    trees: 1,
+    perfumes: 8
+  },
+  Sue_193: {
+    pomeranians: 0,
+    akitas: 9,
+    cats: 0
+  },
+  Sue_194: {
+    trees: 1,
+    goldfish: 0,
+    perfumes: 10
+  },
+  Sue_195: {
+    perfumes: 2,
+    akitas: 7,
+    cars: 5
+  },
+  Sue_196: {
+    perfumes: 5,
+    samoyeds: 8,
+    cars: 1
+  },
+  Sue_197: {
+    vizslas: 2,
+    pomeranians: 9,
+    trees: 1
+  },
+  Sue_198: {
+    trees: 8,
+    vizslas: 6,
+    children: 8
+  },
+  Sue_199: {
+    pomeranians: 4,
+    cars: 7,
+    vizslas: 5
+  },
+  Sue_200: {
+    trees: 0,
+    perfumes: 10,
+    akitas: 10
+  },
+  Sue_201: {
+    cats: 9,
+    akitas: 4,
+    vizslas: 0
+  },
+  Sue_202: {
+    goldfish: 9,
+    pomeranians: 9,
+    cats: 6
+  },
+  Sue_203: {
+    cars: 5,
+    perfumes: 5,
+    trees: 2
+  },
+  Sue_204: {
+    pomeranians: 7,
+    children: 2,
+    akitas: 6
+  },
+  Sue_205: {
+    samoyeds: 7,
+    pomeranians: 7,
+    children: 6
+  },
+  Sue_206: {
+    trees: 1,
+    cars: 1,
+    pomeranians: 4
+  },
+  Sue_207: {
+    goldfish: 2,
+    perfumes: 5,
+    trees: 0
+  },
+  Sue_208: {
+    perfumes: 2,
+    samoyeds: 4,
+    trees: 1
+  },
+  Sue_209: {
+    cars: 8,
+    perfumes: 6,
+    goldfish: 9
+  },
+  Sue_210: {
+    perfumes: 4,
+    cars: 8,
+    samoyeds: 3
+  },
+  Sue_211: {
+    perfumes: 2,
+    cars: 8,
+    trees: 9
+  },
+  Sue_212: {
+    trees: 7,
+    perfumes: 2,
+    akitas: 5
+  },
+  Sue_213: {
+    children: 3,
+    goldfish: 5,
+    vizslas: 0
+  },
+  Sue_214: {
+    akitas: 6,
+    goldfish: 0,
+    children: 0
+  },
+  Sue_215: {
+    trees: 8,
+    akitas: 3,
+    goldfish: 1
+  },
+  Sue_216: {
+    goldfish: 6,
+    perfumes: 8,
+    akitas: 3
+  },
+  Sue_217: {
+    children: 7,
+    trees: 2,
+    vizslas: 6
+  },
+  Sue_218: {
+    goldfish: 8,
+    samoyeds: 4,
+    pomeranians: 6
+  },
+  Sue_219: {
+    goldfish: 8,
+    samoyeds: 0,
+    children: 9
+  },
+  Sue_220: {
+    perfumes: 1,
+    cars: 8,
+    vizslas: 6
+  },
+  Sue_221: {
+    perfumes: 9,
+    cars: 10,
+    children: 10
+  },
+  Sue_222: {
+    perfumes: 9,
+    vizslas: 1,
+    trees: 0
+  },
+  Sue_223: {
+    goldfish: 1,
+    akitas: 2,
+    vizslas: 8
+  },
+  Sue_224: {
+    samoyeds: 8,
+    akitas: 7,
+    vizslas: 4
+  },
+  Sue_225: {
+    goldfish: 1,
+    cars: 4,
+    perfumes: 10
+  },
+  Sue_226: {
+    goldfish: 9,
+    trees: 4,
+    perfumes: 5
+  },
+  Sue_227: {
+    vizslas: 5,
+    trees: 4,
+    goldfish: 7
+  },
+  Sue_228: {
+    cars: 1,
+    cats: 10,
+    perfumes: 4
+  },
+  Sue_229: {
+    vizslas: 8,
+    cars: 10,
+    akitas: 4
+  },
+  Sue_230: {
+    cats: 1,
+    children: 8,
+    vizslas: 3
+  },
+  Sue_231: {
+    perfumes: 7,
+    cats: 6,
+    samoyeds: 7
+  },
+  Sue_232: {
+    cars: 3,
+    children: 9,
+    perfumes: 7
+  },
+  Sue_233: {
+    vizslas: 1,
+    samoyeds: 2,
+    children: 2
+  },
+  Sue_234: {
+    trees: 1,
+    samoyeds: 8,
+    children: 2
+  },
+  Sue_235: {
+    trees: 6,
+    akitas: 9,
+    goldfish: 7
+  },
+  Sue_236: {
+    children: 10,
+    trees: 0,
+    samoyeds: 8
+  },
+  Sue_237: {
+    pomeranians: 4,
+    trees: 1,
+    goldfish: 2
+  },
+  Sue_238: {
+    vizslas: 4,
+    akitas: 2,
+    cars: 0
+  },
+  Sue_239: {
+    goldfish: 9,
+    cars: 10,
+    perfumes: 4
+  },
+  Sue_240: {
+    perfumes: 3,
+    vizslas: 6,
+    trees: 6
+  },
+  Sue_241: {
+    pomeranians: 6,
+    akitas: 4,
+    trees: 2
+  },
+  Sue_242: {
+    cars: 8,
+    perfumes: 5,
+    children: 7
+  },
+  Sue_243: {
+    trees: 4,
+    perfumes: 7,
+    cars: 3
+  },
+  Sue_244: {
+    perfumes: 6,
+    akitas: 1,
+    vizslas: 7
+  },
+  Sue_245: {
+    akitas: 3,
+    perfumes: 9,
+    samoyeds: 0
+  },
+  Sue_246: {
+    pomeranians: 3,
+    vizslas: 9,
+    samoyeds: 1
+  },
+  Sue_247: {
+    cars: 0,
+    goldfish: 7,
+    cats: 2
+  },
+  Sue_248: {
+    trees: 5,
+    goldfish: 6,
+    perfumes: 3
+  },
+  Sue_249: {
+    trees: 0,
+    pomeranians: 7,
+    perfumes: 9
+  },
+  Sue_250: {
+    cars: 9,
+    trees: 1,
+    goldfish: 10
+  },
+  Sue_251: {
+    perfumes: 3,
+    cars: 8,
+    trees: 7
+  },
+  Sue_252: {
+    cars: 5,
+    akitas: 7,
+    trees: 8
+  },
+  Sue_253: {
+    perfumes: 7,
+    akitas: 3,
+    trees: 8
+  },
+  Sue_254: {
+    goldfish: 8,
+    samoyeds: 1,
+    vizslas: 7
+  },
+  Sue_255: {
+    perfumes: 3,
+    cars: 4,
+    children: 6
+  },
+  Sue_256: {
+    perfumes: 9,
+    trees: 8,
+    children: 7
+  },
+  Sue_257: {
+    trees: 8,
+    children: 6,
+    cars: 4
+  },
+  Sue_258: {
+    vizslas: 1,
+    trees: 10,
+    goldfish: 9
+  },
+  Sue_259: {
+    vizslas: 5,
+    trees: 6,
+    goldfish: 9
+  },
+  Sue_260: {
+    trees: 0,
+    goldfish: 6,
+    cars: 7
+  },
+  Sue_261: {
+    cars: 1,
+    perfumes: 4,
+    goldfish: 9
+  },
+  Sue_262: {
+    cars: 7,
+    goldfish: 9,
+    cats: 9
+  },
+  Sue_263: {
+    cars: 0,
+    children: 5,
+    goldfish: 8
+  },
+  Sue_264: {
+    cars: 2,
+    akitas: 8,
+    trees: 0
+  },
+  Sue_265: {
+    perfumes: 9,
+    children: 8,
+    samoyeds: 7
+  },
+  Sue_266: {
+    cats: 1,
+    children: 1,
+    vizslas: 10
+  },
+  Sue_267: {
+    vizslas: 8,
+    children: 2,
+    trees: 6
+  },
+  Sue_268: {
+    akitas: 10,
+    vizslas: 3,
+    cats: 2
+  },
+  Sue_269: {
+    children: 4,
+    goldfish: 1,
+    cats: 6
+  },
+  Sue_270: {
+    vizslas: 5,
+    cars: 9,
+    akitas: 9
+  },
+  Sue_271: {
+    vizslas: 5,
+    children: 4,
+    akitas: 3
+  },
+  Sue_272: {
+    cars: 1,
+    goldfish: 0,
+    vizslas: 0
+  },
+  Sue_273: {
+    goldfish: 10,
+    samoyeds: 1,
+    akitas: 2
+  },
+  Sue_274: {
+    goldfish: 10,
+    children: 2,
+    pomeranians: 0
+  },
+  Sue_275: {
+    children: 0,
+    vizslas: 1,
+    samoyeds: 6
+  },
+  Sue_276: {
+    children: 1,
+    vizslas: 3,
+    samoyeds: 1
+  },
+  Sue_277: {
+    perfumes: 4,
+    cats: 6,
+    children: 10
+  },
+  Sue_278: {
+    pomeranians: 7,
+    goldfish: 3,
+    cars: 4
+  },
+  Sue_279: {
+    perfumes: 5,
+    goldfish: 9,
+    trees: 7
+  },
+  Sue_280: {
+    goldfish: 6,
+    trees: 5,
+    perfumes: 8
+  },
+  Sue_281: {
+    cars: 2,
+    akitas: 1,
+    vizslas: 7
+  },
+  Sue_282: {
+    vizslas: 4,
+    akitas: 3,
+    children: 8
+  },
+  Sue_283: {
+    pomeranians: 8,
+    akitas: 9,
+    vizslas: 4
+  },
+  Sue_284: {
+    samoyeds: 10,
+    trees: 10,
+    pomeranians: 2
+  },
+  Sue_285: {
+    akitas: 9,
+    perfumes: 7,
+    goldfish: 6
+  },
+  Sue_286: {
+    akitas: 2,
+    vizslas: 7,
+    goldfish: 10
+  },
+  Sue_287: {
+    pomeranians: 8,
+    cars: 6,
+    samoyeds: 5
+  },
+  Sue_288: {
+    pomeranians: 1,
+    trees: 0,
+    goldfish: 0
+  },
+  Sue_289: {
+    trees: 10,
+    samoyeds: 1,
+    children: 0
+  },
+  Sue_290: {
+    cats: 10,
+    samoyeds: 6,
+    trees: 0
+  },
+  Sue_291: {
+    vizslas: 9,
+    trees: 6,
+    goldfish: 5
+  },
+  Sue_292: {
+    cats: 4,
+    perfumes: 8,
+    cars: 3
+  },
+  Sue_293: {
+    goldfish: 10,
+    perfumes: 10,
+    cats: 0
+  },
+  Sue_294: {
+    cats: 7,
+    trees: 6,
+    akitas: 4
+  },
+  Sue_295: {
+    vizslas: 8,
+    cars: 1,
+    akitas: 6
+  },
+  Sue_296: {
+    vizslas: 5,
+    akitas: 10,
+    trees: 1
+  },
+  Sue_297: {
+    pomeranians: 8,
+    samoyeds: 5,
+    vizslas: 4
+  },
+  Sue_298: {
+    perfumes: 10,
+    children: 5,
+    vizslas: 2
+  },
+  Sue_299: {
+    cars: 10,
+    akitas: 7,
+    cats: 5
+  },
+  Sue_300: {
+    trees: 1,
+    perfumes: 7,
+    cars: 7
+  },
+  Sue_301: {
+    cars: 9,
+    vizslas: 1,
+    perfumes: 3
+  },
+  Sue_302: {
+    perfumes: 9,
+    vizslas: 1,
+    akitas: 5
+  },
+  Sue_303: {
+    akitas: 9,
+    trees: 1,
+    goldfish: 10
+  },
+  Sue_304: {
+    children: 10,
+    vizslas: 6,
+    pomeranians: 8
+  },
+  Sue_305: {
+    trees: 3,
+    goldfish: 6,
+    cats: 9
+  },
+  Sue_306: {
+    cars: 5,
+    perfumes: 9,
+    vizslas: 5
+  },
+  Sue_307: {
+    children: 0,
+    goldfish: 7,
+    trees: 2
+  },
+  Sue_308: {
+    trees: 9,
+    samoyeds: 4,
+    cars: 0
+  },
+  Sue_309: {
+    cats: 8,
+    vizslas: 2,
+    perfumes: 3
+  },
+  Sue_310: {
+    cars: 6,
+    pomeranians: 6,
+    vizslas: 6
+  },
+  Sue_311: {
+    vizslas: 6,
+    akitas: 7,
+    cats: 10
+  },
+  Sue_312: {
+    trees: 0,
+    goldfish: 7,
+    cars: 0
+  },
+  Sue_313: {
+    perfumes: 5,
+    akitas: 5,
+    cars: 2
+  },
+  Sue_314: {
+    akitas: 10,
+    vizslas: 3,
+    samoyeds: 8
+  },
+  Sue_315: {
+    cars: 3,
+    perfumes: 1,
+    goldfish: 8
+  },
+  Sue_316: {
+    pomeranians: 6,
+    goldfish: 9,
+    perfumes: 1
+  },
+  Sue_317: {
+    goldfish: 4,
+    akitas: 6,
+    cars: 2
+  },
+  Sue_318: {
+    perfumes: 8,
+    vizslas: 8,
+    akitas: 0
+  },
+  Sue_319: {
+    akitas: 10,
+    cars: 5,
+    vizslas: 6
+  },
+  Sue_320: {
+    vizslas: 4,
+    akitas: 3,
+    cats: 4
+  },
+  Sue_321: {
+    goldfish: 4,
+    akitas: 8,
+    cars: 8
+  },
+  Sue_322: {
+    pomeranians: 5,
+    vizslas: 7,
+    cats: 1
+  },
+  Sue_323: {
+    perfumes: 1,
+    trees: 6,
+    goldfish: 0
+  },
+  Sue_324: {
+    goldfish: 6,
+    trees: 10,
+    cars: 10
+  },
+  Sue_325: {
+    akitas: 2,
+    samoyeds: 6,
+    trees: 9
+  },
+  Sue_326: {
+    vizslas: 4,
+    akitas: 7,
+    cars: 9
+  },
+  Sue_327: {
+    children: 3,
+    perfumes: 4,
+    cars: 1
+  },
+  Sue_328: {
+    akitas: 9,
+    perfumes: 6,
+    cars: 10
+  },
+  Sue_329: {
+    perfumes: 2,
+    goldfish: 0,
+    trees: 1
+  },
+  Sue_330: {
+    vizslas: 10,
+    pomeranians: 7,
+    goldfish: 6
+  },
+  Sue_331: {
+    trees: 3,
+    vizslas: 8,
+    cars: 3
+  },
+  Sue_332: {
+    akitas: 2,
+    cats: 1,
+    goldfish: 8
+  },
+  Sue_333: {
+    cars: 6,
+    trees: 2,
+    vizslas: 0
+  },
+  Sue_334: {
+    samoyeds: 7,
+    cars: 7,
+    trees: 3
+  },
+  Sue_335: {
+    cats: 7,
+    children: 1,
+    perfumes: 8
+  },
+  Sue_336: {
+    akitas: 5,
+    goldfish: 10,
+    vizslas: 5
+  },
+  Sue_337: {
+    cats: 3,
+    vizslas: 0,
+    akitas: 10
+  },
+  Sue_338: {
+    perfumes: 8,
+    cars: 1,
+    trees: 8
+  },
+  Sue_339: {
+    cars: 4,
+    samoyeds: 8,
+    children: 2
+  },
+  Sue_340: {
+    goldfish: 9,
+    pomeranians: 1,
+    samoyeds: 1
+  },
+  Sue_341: {
+    akitas: 3,
+    trees: 0,
+    goldfish: 2
+  },
+  Sue_342: {
+    perfumes: 4,
+    vizslas: 8,
+    pomeranians: 9
+  },
+  Sue_343: {
+    akitas: 4,
+    cars: 5,
+    goldfish: 4
+  },
+  Sue_344: {
+    samoyeds: 5,
+    cats: 4,
+    trees: 0
+  },
+  Sue_345: {
+    samoyeds: 4,
+    cars: 8,
+    akitas: 2
+  },
+  Sue_346: {
+    akitas: 3,
+    vizslas: 10,
+    perfumes: 10
+  },
+  Sue_347: {
+    goldfish: 10,
+    akitas: 4,
+    cars: 1
+  },
+  Sue_348: {
+    perfumes: 10,
+    cats: 4,
+    vizslas: 5
+  },
+  Sue_349: {
+    akitas: 2,
+    vizslas: 4,
+    cars: 7
+  },
+  Sue_350: {
+    akitas: 5,
+    vizslas: 5,
+    cars: 6
+  },
+  Sue_351: {
+    vizslas: 8,
+    perfumes: 6,
+    cars: 3
+  },
+  Sue_352: {
+    cars: 10,
+    vizslas: 0,
+    goldfish: 10
+  },
+  Sue_353: {
+    cars: 10,
+    perfumes: 5,
+    children: 7
+  },
+  Sue_354: {
+    vizslas: 6,
+    akitas: 3,
+    samoyeds: 9
+  },
+  Sue_355: {
+    akitas: 2,
+    perfumes: 7,
+    cars: 10
+  },
+  Sue_356: {
+    cars: 10,
+    perfumes: 7,
+    children: 6
+  },
+  Sue_357: {
+    akitas: 4,
+    cars: 8,
+    trees: 1
+  },
+  Sue_358: {
+    trees: 2,
+    cars: 1,
+    goldfish: 2
+  },
+  Sue_359: {
+    vizslas: 5,
+    cars: 9,
+    trees: 4
+  },
+  Sue_360: {
+    perfumes: 4,
+    akitas: 3,
+    cars: 3
+  },
+  Sue_361: {
+    children: 3,
+    akitas: 2,
+    cats: 5
+  },
+  Sue_362: {
+    cars: 8,
+    cats: 4,
+    akitas: 10
+  },
+  Sue_363: {
+    cats: 2,
+    trees: 1,
+    vizslas: 4
+  },
+  Sue_364: {
+    vizslas: 2,
+    pomeranians: 5,
+    samoyeds: 9
+  },
+  Sue_365: {
+    samoyeds: 2,
+    akitas: 7,
+    goldfish: 9
+  },
+  Sue_366: {
+    goldfish: 8,
+    trees: 7,
+    cats: 2
+  },
+  Sue_367: {
+    perfumes: 2,
+    vizslas: 6,
+    trees: 5
+  },
+  Sue_368: {
+    cars: 5,
+    samoyeds: 0,
+    perfumes: 6
+  },
+  Sue_369: {
+    samoyeds: 10,
+    trees: 10,
+    vizslas: 1
+  },
+  Sue_370: {
+    trees: 2,
+    vizslas: 3,
+    cars: 4
+  },
+  Sue_371: {
+    akitas: 6,
+    pomeranians: 2,
+    cats: 4
+  },
+  Sue_372: {
+    trees: 2,
+    perfumes: 3,
+    goldfish: 9
+  },
+  Sue_373: {
+    vizslas: 5,
+    children: 0,
+    pomeranians: 6
+  },
+  Sue_374: {
+    trees: 1,
+    vizslas: 8,
+    perfumes: 10
+  },
+  Sue_375: {
+    cars: 0,
+    akitas: 6,
+    children: 0
+  },
+  Sue_376: {
+    akitas: 1,
+    vizslas: 0,
+    trees: 0
+  },
+  Sue_377: {
+    samoyeds: 10,
+    cats: 5,
+    pomeranians: 0
+  },
+  Sue_378: {
+    goldfish: 3,
+    pomeranians: 7,
+    cats: 7
+  },
+  Sue_379: {
+    perfumes: 0,
+    cats: 0,
+    trees: 8
+  },
+  Sue_380: {
+    perfumes: 4,
+    samoyeds: 1,
+    akitas: 7
+  },
+  Sue_381: {
+    akitas: 4,
+    pomeranians: 2,
+    children: 4
+  },
+  Sue_382: {
+    vizslas: 9,
+    akitas: 4,
+    trees: 10
+  },
+  Sue_383: {
+    trees: 1,
+    vizslas: 10,
+    akitas: 6
+  },
+  Sue_384: {
+    trees: 3,
+    akitas: 8,
+    goldfish: 3
+  },
+  Sue_385: {
+    goldfish: 6,
+    perfumes: 2,
+    children: 9
+  },
+  Sue_386: {
+    children: 10,
+    akitas: 7,
+    goldfish: 7
+  },
+  Sue_387: {
+    goldfish: 3,
+    vizslas: 10,
+    perfumes: 5
+  },
+  Sue_388: {
+    children: 4,
+    trees: 0,
+    cars: 2
+  },
+  Sue_389: {
+    trees: 0,
+    cats: 3,
+    goldfish: 10
+  },
+  Sue_390: {
+    samoyeds: 9,
+    pomeranians: 0,
+    cats: 6
+  },
+  Sue_391: {
+    samoyeds: 10,
+    trees: 3,
+    akitas: 4
+  },
+  Sue_392: {
+    akitas: 9,
+    goldfish: 10,
+    perfumes: 7
+  },
+  Sue_393: {
+    goldfish: 6,
+    cars: 2,
+    akitas: 9
+  },
+  Sue_394: {
+    trees: 4,
+    goldfish: 9,
+    vizslas: 7
+  },
+  Sue_395: {
+    vizslas: 4,
+    samoyeds: 1,
+    goldfish: 6
+  },
+  Sue_396: {
+    vizslas: 5,
+    cats: 0,
+    samoyeds: 1
+  },
+  Sue_397: {
+    goldfish: 7,
+    cats: 0,
+    trees: 7
+  },
+  Sue_398: {
+    cars: 10,
+    akitas: 1,
+    vizslas: 7
+  },
+  Sue_399: {
+    samoyeds: 10,
+    cats: 6,
+    goldfish: 6
+  },
+  Sue_400: {
+    cats: 6,
+    samoyeds: 0,
+    trees: 2
+  },
+  Sue_401: {
+    trees: 1,
+    children: 4,
+    goldfish: 2
+  },
+  Sue_402: {
+    cats: 8,
+    vizslas: 4,
+    children: 3
+  },
+  Sue_403: {
+    cars: 9,
+    perfumes: 8,
+    pomeranians: 2
+  },
+  Sue_404: {
+    goldfish: 8,
+    trees: 2,
+    cars: 5
+  },
+  Sue_405: {
+    perfumes: 1,
+    pomeranians: 5,
+    vizslas: 5
+  },
+  Sue_406: {
+    perfumes: 6,
+    trees: 2,
+    pomeranians: 6
+  },
+  Sue_407: {
+    trees: 0,
+    goldfish: 6,
+    cars: 6
+  },
+  Sue_408: {
+    trees: 0,
+    samoyeds: 7,
+    goldfish: 9
+  },
+  Sue_409: {
+    samoyeds: 10,
+    goldfish: 6,
+    pomeranians: 0
+  },
+  Sue_410: {
+    perfumes: 5,
+    vizslas: 6,
+    trees: 0
+  },
+  Sue_411: {
+    goldfish: 2,
+    trees: 2,
+    pomeranians: 0
+  },
+  Sue_412: {
+    pomeranians: 4,
+    perfumes: 8,
+    cats: 8
+  },
+  Sue_413: {
+    vizslas: 4,
+    cars: 5,
+    akitas: 1
+  },
+  Sue_414: {
+    perfumes: 2,
+    trees: 8,
+    goldfish: 7
+  },
+  Sue_415: {
+    akitas: 3,
+    trees: 1,
+    perfumes: 3
+  },
+  Sue_416: {
+    cars: 7,
+    trees: 1,
+    perfumes: 8
+  },
+  Sue_417: {
+    cars: 5,
+    goldfish: 5,
+    trees: 1
+  },
+  Sue_418: {
+    cars: 9,
+    goldfish: 4,
+    samoyeds: 2
+  },
+  Sue_419: {
+    pomeranians: 8,
+    akitas: 1,
+    goldfish: 6
+  },
+  Sue_420: {
+    cars: 0,
+    cats: 0,
+    children: 8
+  },
+  Sue_421: {
+    akitas: 10,
+    goldfish: 1,
+    vizslas: 8
+  },
+  Sue_422: {
+    children: 8,
+    vizslas: 6,
+    samoyeds: 10
+  },
+  Sue_423: {
+    samoyeds: 3,
+    goldfish: 10,
+    vizslas: 8
+  },
+  Sue_424: {
+    cars: 3,
+    children: 7,
+    goldfish: 4
+  },
+  Sue_425: {
+    cars: 9,
+    perfumes: 9,
+    goldfish: 8
+  },
+  Sue_426: {
+    akitas: 5,
+    trees: 10,
+    vizslas: 10
+  },
+  Sue_427: {
+    vizslas: 10,
+    cars: 3,
+    akitas: 7
+  },
+  Sue_428: {
+    cats: 6,
+    perfumes: 5,
+    goldfish: 10
+  },
+  Sue_429: {
+    goldfish: 7,
+    trees: 5,
+    vizslas: 10
+  },
+  Sue_430: {
+    perfumes: 3,
+    trees: 7,
+    cars: 3
+  },
+  Sue_431: {
+    cars: 2,
+    vizslas: 1,
+    akitas: 6
+  },
+  Sue_432: {
+    pomeranians: 8,
+    perfumes: 5,
+    cars: 3
+  },
+  Sue_433: {
+    children: 8,
+    cars: 0,
+    perfumes: 7
+  },
+  Sue_434: {
+    samoyeds: 0,
+    vizslas: 9,
+    akitas: 10
+  },
+  Sue_435: {
+    akitas: 3,
+    vizslas: 8,
+    cats: 4
+  },
+  Sue_436: {
+    goldfish: 5,
+    trees: 8,
+    samoyeds: 8
+  },
+  Sue_437: {
+    cars: 10,
+    samoyeds: 9,
+    goldfish: 7
+  },
+  Sue_438: {
+    samoyeds: 5,
+    akitas: 7,
+    perfumes: 9
+  },
+  Sue_439: {
+    goldfish: 10,
+    perfumes: 5,
+    cars: 0
+  },
+  Sue_440: {
+    pomeranians: 1,
+    samoyeds: 9,
+    children: 4
+  },
+  Sue_441: {
+    vizslas: 4,
+    perfumes: 2,
+    cats: 5
+  },
+  Sue_442: {
+    trees: 0,
+    pomeranians: 3,
+    cars: 7
+  },
+  Sue_443: {
+    akitas: 0,
+    cars: 2,
+    vizslas: 10
+  },
+  Sue_444: {
+    children: 1,
+    akitas: 9,
+    trees: 0
+  },
+  Sue_445: {
+    cars: 5,
+    perfumes: 7,
+    goldfish: 9
+  },
+  Sue_446: {
+    akitas: 0,
+    perfumes: 1,
+    vizslas: 2
+  },
+  Sue_447: {
+    vizslas: 7,
+    perfumes: 0,
+    cars: 5
+  },
+  Sue_448: {
+    vizslas: 6,
+    goldfish: 10,
+    trees: 0
+  },
+  Sue_449: {
+    cars: 7,
+    vizslas: 7,
+    trees: 3
+  },
+  Sue_450: {
+    pomeranians: 4,
+    akitas: 4,
+    vizslas: 8
+  },
+  Sue_451: {
+    cats: 4,
+    perfumes: 8,
+    children: 3
+  },
+  Sue_452: {
+    samoyeds: 8,
+    akitas: 9,
+    cars: 1
+  },
+  Sue_453: {
+    cars: 8,
+    akitas: 5,
+    vizslas: 2
+  },
+  Sue_454: {
+    vizslas: 9,
+    perfumes: 4,
+    akitas: 4
+  },
+  Sue_455: {
+    akitas: 3,
+    goldfish: 2,
+    vizslas: 6
+  },
+  Sue_456: {
+    cars: 4,
+    perfumes: 5,
+    goldfish: 10
+  },
+  Sue_457: {
+    trees: 9,
+    pomeranians: 4,
+    goldfish: 10
+  },
+  Sue_458: {
+    pomeranians: 1,
+    perfumes: 9,
+    children: 6
+  },
+  Sue_459: {
+    samoyeds: 0,
+    goldfish: 8,
+    vizslas: 6
+  },
+  Sue_460: {
+    cars: 10,
+    goldfish: 8,
+    samoyeds: 8
+  },
+  Sue_461: {
+    akitas: 8,
+    goldfish: 9,
+    vizslas: 2
+  },
+  Sue_462: {
+    cars: 1,
+    vizslas: 2,
+    akitas: 8
+  },
+  Sue_463: {
+    goldfish: 2,
+    akitas: 4,
+    samoyeds: 10
+  },
+  Sue_464: {
+    children: 5,
+    perfumes: 5,
+    cars: 5
+  },
+  Sue_465: {
+    perfumes: 9,
+    trees: 0,
+    samoyeds: 6
+  },
+  Sue_466: {
+    akitas: 5,
+    goldfish: 3,
+    cats: 6
+  },
+  Sue_467: {
+    perfumes: 3,
+    goldfish: 0,
+    trees: 4
+  },
+  Sue_468: {
+    goldfish: 2,
+    children: 4,
+    trees: 1
+  },
+  Sue_469: {
+    cars: 0,
+    perfumes: 8,
+    children: 7
+  },
+  Sue_470: {
+    vizslas: 8,
+    cats: 5,
+    samoyeds: 9
+  },
+  Sue_471: {
+    pomeranians: 7,
+    trees: 2,
+    goldfish: 3
+  },
+  Sue_472: {
+    goldfish: 8,
+    akitas: 4,
+    perfumes: 5
+  },
+  Sue_473: {
+    perfumes: 2,
+    pomeranians: 3,
+    cars: 8
+  },
+  Sue_474: {
+    samoyeds: 0,
+    akitas: 7,
+    pomeranians: 6
+  },
+  Sue_475: {
+    vizslas: 7,
+    perfumes: 1,
+    trees: 6
+  },
+  Sue_476: {
+    vizslas: 3,
+    samoyeds: 1,
+    perfumes: 10
+  },
+  Sue_477: {
+    cars: 6,
+    perfumes: 5,
+    vizslas: 2
+  },
+  Sue_478: {
+    pomeranians: 1,
+    goldfish: 3,
+    akitas: 7
+  },
+  Sue_479: {
+    goldfish: 10,
+    trees: 0,
+    cars: 3
+  },
+  Sue_480: {
+    cats: 3,
+    akitas: 5,
+    vizslas: 8
+  },
+  Sue_481: {
+    pomeranians: 5,
+    vizslas: 2,
+    trees: 3
+  },
+  Sue_482: {
+    cars: 8,
+    samoyeds: 10,
+    goldfish: 10
+  },
+  Sue_483: {
+    pomeranians: 3,
+    vizslas: 6,
+    goldfish: 5
+  },
+  Sue_484: {
+    perfumes: 7,
+    vizslas: 4,
+    akitas: 7
+  },
+  Sue_485: {
+    goldfish: 1,
+    trees: 0,
+    perfumes: 10
+  },
+  Sue_486: {
+    goldfish: 6,
+    perfumes: 0,
+    akitas: 10
+  },
+  Sue_487: {
+    cats: 2,
+    akitas: 10,
+    trees: 1
+  },
+  Sue_488: {
+    akitas: 1,
+    goldfish: 3,
+    cars: 7
+  },
+  Sue_489: {
+    goldfish: 3,
+    akitas: 6,
+    vizslas: 6
+  },
+  Sue_490: {
+    goldfish: 8,
+    perfumes: 2,
+    akitas: 2
+  },
+  Sue_491: {
+    trees: 4,
+    vizslas: 8,
+    perfumes: 6
+  },
+  Sue_492: {
+    cars: 9,
+    perfumes: 3,
+    cats: 0
+  },
+  Sue_493: {
+    trees: 3,
+    vizslas: 6,
+    goldfish: 7
+  },
+  Sue_494: {
+    trees: 8,
+    samoyeds: 1,
+    perfumes: 5
+  },
+  Sue_495: {
+    children: 9,
+    akitas: 8,
+    vizslas: 4
+  },
+  Sue_496: {
+    vizslas: 2,
+    pomeranians: 1,
+    perfumes: 7
+  },
+  Sue_497: {
+    trees: 2,
+    akitas: 4,
+    vizslas: 6
+  },
+  Sue_498: {
+    akitas: 8,
+    pomeranians: 7,
+    trees: 0
+  },
+  Sue_499: {
+    perfumes: 6,
+    goldfish: 3,
+    vizslas: 7
+  },
+  Sue_500: {
+    cars: 1,
+    perfumes: 6,
+    vizslas: 1
+  }
+}
