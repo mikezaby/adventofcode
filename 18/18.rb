@@ -1,12 +1,14 @@
 require '../file_helper'
 
 class Lcd
-  attr_reader :grid
+  attr_reader :grid, :always_on
   attr_accessor :monitor
 
   def initialize(file_path)
     @monitor = FileHelper.new(file_path).map { |row| row.chars.map { |l| l == '#' } }
     @grid = @monitor.count - 1
+    @always_on = [[0, @grid], [@grid, 0], [0, 0], [@grid, @grid]]
+    @always_on.each { |point| @monitor[point.last][point.first] = true }
   end
 
   def step(n = 1)
@@ -15,6 +17,8 @@ class Lcd
   end
 
   def step_light(x,y)
+    return true if @always_on.include? [x, y]
+
     neighbors = range(y).map { |yy| range(x).map { |xx| monitor[yy][xx] } }.flatten
 
    if monitor[y][x]
