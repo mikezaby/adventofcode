@@ -18,7 +18,7 @@ impl Cpu {
             program: vec![]
         };
 
-        cpu.registers.insert("a".to_string(), 0);
+        cpu.registers.insert("a".to_string(), 1);
         cpu.registers.insert("b".to_string(), 0);
 
         cpu
