@@ -3,4 +3,4 @@
 (println (reduce +
   (map #(Character/digit (first %) 10)
     (filter #(= (first %) (second %))
-      (map-indexed #(vector %2 (get input (mod (+ %1 1) (count input)))) input)))))
+      (map (fn [a b] [a b]) input (take (count input) (drop 1 (cycle input))))))))
