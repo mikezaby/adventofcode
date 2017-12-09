@@ -14,8 +14,6 @@ loop do
   ((bank_index + 1)..(bank_index + max_blocks)).each { |i| memory_banks[i % banks_count] += 1 }
 
   if !state.add?(memory_banks)
-    p memory_banks
-    p state
-    break puts(state.count - state.find_index(memory_banks))
+    break (state.count - state.find_index(memory_banks))
   end
 end
