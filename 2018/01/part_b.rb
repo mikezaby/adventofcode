@@ -1,6 +1,6 @@
-input = File.read('./input.txt').each_line.map { |line| line.to_i }
 require 'set';
-input_count = input.count
+
+input = File.read('./input.txt').each_line.map { |line| line.to_i }
 
 initial_frequency_table = input.reduce([]) do |table, num|
   freq = table.last || 0
