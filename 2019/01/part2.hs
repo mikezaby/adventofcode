@@ -4,7 +4,7 @@ import Data.String (lines)
 fuelCounter :: Int -> Int -> Int
 fuelCounter mass totalFuel = 
     let fuel = quot mass 3 - 2
-    in if fuel <= 0 then totalFuel else fuelCounter fuel (totalFuel + fuel0)
+    in if fuel <= 0 then totalFuel else fuelCounter fuel (totalFuel + fuel)
 
 massesToFuel :: [Int] -> Int
 massesToFuel = foldl calc 0
