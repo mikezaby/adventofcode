@@ -1,0 +1,2 @@
+#!/bin/bash
+irb -I . -r runner.rb
