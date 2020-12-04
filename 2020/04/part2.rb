@@ -24,32 +24,25 @@ class PassportValidator
   def valid?
     MAPPING.values.all? do |attr_name|
       next true if attr_name == :country_id
+      return false if attr_empty?(public_send(attr_name))
 
       public_send("valid_#{attr_name}?")
     end
   end
 
   def valid_birth_date?
-    return false if attr_empty?(birth_date)
-
-    birth_date.length == 4 && VALID_BIRTH_YEAR.include?(birth_date.to_i)
+    VALID_BIRTH_YEAR.include?(birth_date.to_i)
   end
 
   def valid_issue_year?
-    return false if attr_empty?(issue_year)
-
-    issue_year.length == 4 && VALID_ISSUE_YEAR.include?(issue_year.to_i)
+    VALID_ISSUE_YEAR.include?(issue_year.to_i)
   end
 
   def valid_exp_year?
-    return false if attr_empty?(exp_year)
-
-    exp_year.length == 4 && VALID_EXP_YEAR.include?(exp_year.to_i)
+    VALID_EXP_YEAR.include?(exp_year.to_i)
   end
 
   def valid_height?
-    return false if attr_empty?(height)
-
     _, num, metric = height.match(/^(\d+)(cm|in)$/).to_a
     num = num.to_i
 
@@ -61,20 +54,14 @@ class PassportValidator
   end
 
   def valid_hair_color?
-    return false if attr_empty?(hair_color)
-
     hair_color.match?(/^#[a-f 0-9]{6}$/)
   end
 
   def valid_eye_color?
-    return false if attr_empty?(eye_color)
-
     VALID_EYE_COLOR.include?(eye_color)
   end
 
   def valid_passport_id?
-    return false if attr_empty?(passport_id)
-
     passport_id.match?(/^\d{9}$/)
   end
 
