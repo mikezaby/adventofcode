@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
 
+require 'active_support/all'
 require './file_helper'
 
 def advent(*current_advent)
