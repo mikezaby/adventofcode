@@ -3,8 +3,14 @@
 require 'active_support/all'
 require './file_helper'
 
+@_init_constants = Object.constants.dup
+
 def advent(*current_advent)
   @output = nil
+
+  (Object.constants - @_init_constants).each do |const|
+    Object.send(:remove_const, const)
+  end
 
   if current_advent.any?
     @year, @day, @part = current_advent
