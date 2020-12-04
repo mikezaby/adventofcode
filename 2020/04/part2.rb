@@ -15,7 +15,7 @@ class PassportValidator
   VALID_EXP_YEAR = (2020..2030)
   VALID_EYE_COLOR = %w(amb blu brn gry grn hzl oth)
 
-  attr_accessor *MAPPING.values
+  attr_accessor(*MAPPING.values)
 
   def initialize(data)
     map_data(data)
