@@ -1,2 +1,2 @@
 #!/bin/bash
-irb -I . -r runner.rb
+bundle exec irb -I . -r runner.rb
