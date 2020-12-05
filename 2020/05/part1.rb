@@ -20,7 +20,7 @@ class BoardingPass
   end
 
   def column
-    @column = find_number(code.chars.last(3), MAX_COLUMNS)
+    @column ||= find_number(code.chars.last(3), MAX_COLUMNS)
   end
 
   def seat_id
